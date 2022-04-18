@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p3Mx3F2nLkPorIOUwIYRgM5PBt4v7Zv4xQQsR7RJmyJD05Xzs/+zzfDSf3u4vF2cN7NI1roLnLSoXZIGCon97w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stan Nedelkov\\Desktop\\OOP_Sceletons\\OOPExam\\Heroes\\Heroes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stan Nedelkov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
