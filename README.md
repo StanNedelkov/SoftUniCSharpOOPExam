@@ -1,1 +1,1 @@
-# SoftUni OOP exam from April 2022 called Cars
+# SoftUni OOP exam from April 2022
